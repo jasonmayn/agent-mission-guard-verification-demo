@@ -1,6 +1,6 @@
 # Free educational example: how to verify a coding agent's work
 
-This is an **synthetic demonstration** of a simple review method anyone can perform with free tools. It is **not** the Agent Mission Guard product, SDK, installer, or output from a live customer. No external connections, credentials, private code, subscriptions, or downloads beyond this folder are needed.
+This is a **synthetic demonstration** of a simple review method anyone can perform with free tools. It is **not** the Agent Mission Guard product, SDK, installer, or output from a live customer. No external connections, credentials, private code, subscriptions, or downloads beyond this folder are needed.
 
 The fictional mission in [mission.md](mission.md) is frozen before reviewing the four example scenarios. `baseline/` is the original toy website and `scenarios/` has four distinct *pre-created examples*.
 
